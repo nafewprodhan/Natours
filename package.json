@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "part of advance css courses",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nafewprodhan/Natours.git"
+  },
+  "author": "Nafew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nafewprodhan/Natours/issues"
+  },
+  "homepage": "https://github.com/nafewprodhan/Natours#readme"
+}
